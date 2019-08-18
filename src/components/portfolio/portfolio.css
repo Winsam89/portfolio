@@ -1,0 +1,52 @@
+
+
+.port-container {
+    background-color: #F8F9FA;
+    padding-bottom: 20px;
+}
+
+.port-bg {
+    background-color: white;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    width:  90%;
+    padding-bottom: 50px;
+}
+
+.portfolio-header {
+    padding-bottom: 30px;
+    font-size: 20px;
+    font-family: 'Roboto';
+    font-weight: 100;
+    text-align: center;
+    color: #D5621A;
+    margin-bottom: 0px;
+    text-align: center;
+    margin-top: 60px;
+    padding-top: 40px;
+}
+
+.project-image {
+    margin-top: 10px;
+}
+
+.project-name {
+    font-family: 'Roboto';
+    text-align: center;
+    color: #1C9EBC;
+    font-weight: 100;
+    font-size: 18px;
+}
+
+.project-sub {
+    font-family: 'Roboto';
+    text-align: center;
+    color: #5F6374;
+    font-size: 14px;
+    line-height: 0;
+    font-weight: 100;
+}
+
+

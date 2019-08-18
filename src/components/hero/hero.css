@@ -1,0 +1,36 @@
+body{
+} 
+
+.container {
+    position: relative;
+}
+
+.h1 {
+    font-size: 20px;
+    font-family: 'Roboto';
+    font-weight: 100;
+    text-align: center;
+    color: #D5621A;
+    margin-top: 40px;
+    margin-bottom: 0px;
+    
+}
+.h2 {
+    font-size: 14px;
+    font-family: 'Roboto';
+    font-weight: 100;
+    text-align: center;
+    color: #5F6374;
+    margin-top: 0px;
+    margin-bottom: 60px;
+}
+
+.aniHero {
+    display: block;
+    width:  358px;
+    padding-top: 0px;
+    margin-bottom: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
